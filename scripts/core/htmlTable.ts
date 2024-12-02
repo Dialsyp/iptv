@@ -4,6 +4,7 @@ type Column = {
   align?: string
 }
 
+
 type DataItem = string[]
 
 export class HTMLTable {
