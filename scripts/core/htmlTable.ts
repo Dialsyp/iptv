@@ -5,6 +5,8 @@ type Column = {
 }
 
 
+
+
 type DataItem = string[]
 
 export class HTMLTable {
